@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+	width: 809px;
+	margin: 1.5em auto;
+	border-color: #fff;
+	border-style: solid;
+	border-width: 10px;
+	padding: 30px;
+	background-color: #fff;
+}
+
+img {
+	border-color: #fff;
+	border-style: solid;
+	border-width: 5px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+IMG.displayed {
+	-webkit-border-radius: 455px;
+	-moz-border-radius: 455px;
+	border-radius: 455px;
+}
+
+h1 {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h3 {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
