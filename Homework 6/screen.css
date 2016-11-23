@@ -2,8 +2,8 @@
 /* CSS Document */
 
 body {
-	background:#CAB6ED; /* For browsers that do not support gradients */
-    background: linear-gradient(45deg, #CAB6ED, #87BC6E); /* Standard syntax (must be last) */
+	background:#DE6900; /* For browsers that do not support gradients */
+    background: linear-gradient(45deg, #FAFF1A, #DE6900); /* #CAB6ED, #87BC6E */
 	font-family: Helvetica, Raleway, Arial, sans-serif;
 	margin: 0;
 	padding: 0;
